@@ -1,2 +1,2 @@
-# huggingface-inference-endpoint
+# Hugging FAce Inference Endpoint
 Hugging Face Inference Endpoint
